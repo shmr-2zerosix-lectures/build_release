@@ -67,7 +67,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '472000393996',
     projectId: 'build-release-a71f9',
     storageBucket: 'build-release-a71f9.appspot.com',
-    iosClientId: '472000393996-1agpsbr0h9u74nmn13b5e9b1bb86knv4.apps.googleusercontent.com',
+    iosClientId:
+        '472000393996-1agpsbr0h9u74nmn13b5e9b1bb86knv4.apps.googleusercontent.com',
     iosBundleId: 'com.example.buildCi',
   );
 
@@ -77,7 +78,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '472000393996',
     projectId: 'build-release-a71f9',
     storageBucket: 'build-release-a71f9.appspot.com',
-    iosClientId: '472000393996-4a2fof8gaasv2bc59alprts2dnra08sa.apps.googleusercontent.com',
+    iosClientId:
+        '472000393996-4a2fof8gaasv2bc59alprts2dnra08sa.apps.googleusercontent.com',
     iosBundleId: 'com.example.sirius.siriusExample',
   );
 }
